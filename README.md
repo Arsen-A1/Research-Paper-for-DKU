@@ -13,7 +13,12 @@ Based on the results, the development of a personalized web platform for air qua
 <div align="center">
   <!-- 📸 Placeholder: Add a data visualization chart here showing PM2.5 levels vs. Allergy symptoms, or a diagram of the monitoring API flow -->
   <img src="https://via.placeholder.com/800x400?text=Insert+Data+Visualization+Chart+or+Heatmap+Here" alt="Data Visualization" />
+  ![Рисунок5](https://github.com/user-attachments/assets/55916583-1423-4f20-98ef-7cd829d81104)
+
 </div>
+
+
+
 
 ## 🌱 Personal Motivation
 Growing up in Central Asia, I experienced firsthand how environmental challenges like air pollution directly impact community health. I initiated this research because I wanted to move beyond abstract data sets and apply machine learning to a tangible, local problem. This project solidified my belief in AI as a tool for public good, demonstrating how predictive algorithms and data engineering can be used to improve quality of life and inform municipal health planning.
