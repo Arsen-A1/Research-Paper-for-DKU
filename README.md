@@ -10,12 +10,6 @@ Based on the results, the development of a personalized web platform for air qua
 
 *(Note: This repository highlights the core research findings and methodology. The full academic manuscript and data analysis are actively being published across several academic and media sources. I would be glad to provide the full drafts upon request for interested professors and researchers.)*
 
-<div align="center">
-  <!-- 📸 Placeholder: Add a data visualization chart here showing PM2.5 levels vs. Allergy symptoms, or a diagram of the monitoring API flow -->
-  <img src="https://via.placeholder.com/800x400?text=Insert+Data+Visualization+Chart+or+Heatmap+Here" alt="Data Visualization" />
-  ![Рисунок5](https://github.com/user-attachments/assets/55916583-1423-4f20-98ef-7cd829d81104)
-
-</div>
 
 <div align="center">
   <img src="Architecture.jpg" alt="Project Architecture" width="800">
