@@ -1,16 +1,12 @@
 # Research-Paper-for-DKU
-Abstract
-The article analyzes the impact of atmospheric air pollution on the development and exacerbation of dust allergies in the urban environment of Almaty. It examines biological and environmental factors that intensify allergic reactions under exposure to fine particulate matter PM2.5, including seasonal and climatic influences. Special attention is given to the mechanism of PM2.5 penetration into the respiratory system and its role in triggering inflammation and increasing sensitivity to allergens.
-The theoretical review summarizes international and local studies linking PM2.5 concentrations with allergic rhinitis, bronchial asthma, and reduced quality of life. The practical part applies a mixed-method approach, combining air quality monitoring data, surveys, and semi-structured interviews with residents. The findings reveal a consistent correlation between elevated PM2.5 levels and increased allergy symptoms, affecting daily behavior.
-Based on the results, the development of a personalized web platform for air quality monitoring is proposed, integrating environmental data, symptom tracking, and recommendation algorithms. The study highlights its relevance for public health planning and potential integration into municipal information systems.
-it's my email for connection bakhitbekovv@gmail.com
-
 # PM2.5-Allergy-Monitoring-ML
 
 [![Status](https://img.shields.io/badge/Status-Completed-green.svg)]()
 [![Presentation](https://img.shields.io/badge/Presented-XVIII_Student_Conference-blue.svg)]()
 
-**Abstract:** This project applies a mixed-methods data analysis approach to correlate localized PM2.5 atmospheric pollution concentrations with the exacerbation of dust allergy symptoms in Almaty, proposing an intelligent, personalized web monitoring platform architecture.
+**Abstract:** The article analyzes the impact of atmospheric air pollution on the development and exacerbation of dust allergies in the urban environment of Almaty. It examines biological and environmental factors that intensify allergic reactions under exposure to fine particulate matter PM2.5, including seasonal and climatic influences. Special attention is given to the mechanism of PM2.5 penetration into the respiratory system and its role in triggering inflammation and increasing sensitivity to allergens.
+The theoretical review summarizes international and local studies linking PM2.5 concentrations with allergic rhinitis, bronchial asthma, and reduced quality of life. The practical part applies a mixed-method approach, combining air quality monitoring data, surveys, and semi-structured interviews with residents. The findings reveal a consistent correlation between elevated PM2.5 levels and increased allergy symptoms, affecting daily behavior.
+Based on the results, the development of a personalized web platform for air quality monitoring is proposed, integrating environmental data, symptom tracking, and recommendation algorithms. The study highlights its relevance for public health planning and potential integration into municipal information systems.
 
 *(Note: This repository highlights the core research findings and methodology. The full academic manuscript and data analysis are actively being published across several academic and media sources. I would be glad to provide the full drafts upon request for interested professors and researchers.)*
 
