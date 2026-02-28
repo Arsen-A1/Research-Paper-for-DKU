@@ -37,7 +37,7 @@ The full research paper detailing the complete statistical methodologies and loc
 
 If you are a professor or researcher curious about the underlying dataset or the localized findings in Almaty, I would be very glad to connect and provide the full manuscript drafts upon request.
 
-**Research Interests:** While this project focuses on data science and ML, my core trajectory is moving aggressively toward Natural Language Processing and culturally aligned LLM development. My dream and primary objective is to research at **MBZUAI** to help build the future of the **Jais** ecosystem and MENA AI.
+**Research Interests:** While this project focuses on data science and ML, my core trajectory is moving aggressively toward Natural Language Processing and culturally aligned LLM development. My dream and primary objective is to research at **MBZUAI** to help build the future of the **Jais** ecosystem and MENA AI
 
 **Arsen Bakhitbekov** - [bakhitbekovv@gmail.com](mailto:bakhitbekovv@gmail.com)
 
