@@ -17,6 +17,10 @@ Based on the results, the development of a personalized web platform for air qua
 
 </div>
 
+<div align="center">
+  <img src="Architecture.jpg" alt="Project Architecture" width="800">
+</div>
+
 
 
 
