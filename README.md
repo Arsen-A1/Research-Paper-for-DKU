@@ -1,4 +1,3 @@
-# Research-Paper-for-DKU
 # PM2.5-Allergy-Monitoring-ML
 
 [![Status](https://img.shields.io/badge/Status-Completed-green.svg)]()
