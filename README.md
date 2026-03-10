@@ -26,7 +26,7 @@ Growing up in Central Asia, I experienced firsthand how environmental challenges
 - Propose an architectural model for a personalized web platform that integrates environmental data streams, symptom tracking, and recommendation algorithms.
 
 ## 🧠 Methodology & Tech Stack
-- **Data Sources:** Public PM2.5 air quality API streams (Almaty region) combined with semi-structured public health surveys.
+- **Data Sources:** Public PM2.5 air quality API stream (Almaty region) combined with semi-structured public health surveys.
 - **Data Analysis:** Python (Pandas, Scikit-learn, Matplotlib/Seaborn) for statistical correlation and predictive modeling of symptom exacerbation based on historical PM2.5 indices.
 - **Platform Architecture Design:** Conceptual integration of recommendation algorithms based on real-time environmental IoT data.
 
