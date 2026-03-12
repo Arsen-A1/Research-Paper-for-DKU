@@ -7,7 +7,7 @@
 The theoretical review summarizes international and local studies linking PM2.5 concentrations with allergic rhinitis, bronchial asthma, and reduced quality of life. The practical part applies a mixed-method approach, combining air quality monitoring data, surveys, and semi-structured interviews with residents. The findings reveal a consistent correlation between elevated PM2.5 levels and increased allergy symptoms, affecting daily behavior.
 Based on the results, the development of a personalized web platform for air quality monitoring is proposed, integrating environmental data, symptom tracking, and recommendation algorithms. The study highlights its relevance for public health planning and potential integration into municipal information systems.
 
-*(Note: This repository highlights the core research findings and methodology. The full academic manuscript and data analysis are actively being published across several academic and media sources. I would be glad to provide the full drafts upon request for interested professors and researchers.)*
+*(Note: This repository highlights the core research findings and methodology. The full academic manuscript and data analysis are actively being published across several academic and media sources. I would be glad to provide the full drafts upon request for interested professors and researcher.)*
 
 
 <div align="center">
