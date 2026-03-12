@@ -31,7 +31,7 @@ Growing up in Central Asia, I experienced firsthand how environmental challenges
 - **Platform Architecture Design:** Conceptual integration of recommendation algorithms based on real-time environmental IoT data.
 
 ## 📊 Key Findings / Results
-- Established a consistent, statistically significant correlation between elevated PM2.5 levels in Almaty and the frequency/severity of allergic rhinitis and bronchial asthma symptoms.
+- Established a consistent, statistically significant correlation between elevated PM2.5 levels in Almaty and the frequency/severity of allergic rhinitis and bronchial asthma symptom.
 - Demonstrated the viability of integrating localized air quality data into municipal health/information systems for predictive public health planning.
 
 ## 📬 Full Paper Request & Contact
